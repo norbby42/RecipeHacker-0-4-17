@@ -6,7 +6,7 @@ For Handwheel and 50L can, you need 1 Puuhari and 1 IC instead.
 
 # Requirements
 
-Requires Lavender 6.0.1 (see https://github.com/leonarudo/Lavender)
+Requires Lavender 7.0.0 (see https://github.com/leonarudo/Lavender)
 
 # Installation
 
