@@ -1,0 +1,2081 @@
+[
+    {
+        "ID": 400101,
+        "Title": "DISABLED Recipe: Steel mechanical watches",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Steel mechanical watches.  This recipe is intentionally disabled by Loiste, and will return in a later update.",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10405,
+						"Name": "Steel mechanical watches",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400102,
+        "Title": "DISABLED Recipe: Brass mechanical watches",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Brass mechanical watches.  This recipe is intentionally disabled by Loiste, and will return in a later update.",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10406,
+						"Name": "Brass mechanical watches",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400103,
+        "Title": "DISABLED Recipe: Silver mechanical watches",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Silver mechanical watches.  This recipe is intentionally disabled by Loiste, and will return in a later update.",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10411,
+						"Name": "Silver mechanical watches",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400104,
+        "Title": "DISABLED Recipe: Gold mechanical watches",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Gold mechanical watches.  This recipe is intentionally disabled by Loiste, and will return in a later update.",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10412,
+						"Name": "Gold mechanical watches",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400105,
+        "Title": "Recipe: Orange Mushroom Powder",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Orange Mushroom Powder",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10564,
+						"Name": "Orange Mushroom Powder",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400106,
+        "Title": "Recipe: Handwheel",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Handwheel",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10683,
+						"Name": "Handwheel",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400107,
+        "Title": "Recipe: Biodiesel Batch",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Biodiesel Batch",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10712,
+						"Name": "Biodiesel Batch",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400108,
+        "Title": "Recipe: 50L Stainless Steel Can",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: 50L Stainless Steel Can",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10741,
+						"Name": "50L Stainless Steel Can",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400109,
+        "Title": "Recipe: Genuine Leather",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Genuine Leather",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10744,
+						"Name": "Genuine Leather",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400110,
+        "Title": "Recipe: Diesel Batch",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Diesel Batch",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10750,
+						"Name": "Diesel Batch",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400111,
+        "Title": "Recipe: Glass Bottle",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Glass Bottle",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10759,
+						"Name": "Glass Bottle",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400112,
+        "Title": "Recipe: Wine Bottles",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Wine Bottles",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10760,
+						"Name": "Wine Bottles",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400113,
+        "Title": "Recipe: Glass Flasks",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Glass Flasks",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10761,
+						"Name": "Glass Flasks",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400114,
+        "Title": "Recipe: Glass Bottles",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Glass Bottles",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10762,
+						"Name": "Glass Bottles",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400115,
+        "Title": "Recipe: Fancy Glass Bottles",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Fancy Glass Bottles",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10763,
+						"Name": "Fancy Glass Bottles",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400116,
+        "Title": "Recipe: Fancy Glass Bottles (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Fancy Glass Bottles (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10764,
+						"Name": "Fancy Glass Bottles",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400117,
+        "Title": "Recipe: Glass Flasks (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Glass Flasks (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10766,
+						"Name": "Glass Flasks",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400118,
+        "Title": "Recipe: Small Glass Bottles",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Small Glass Bottles",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10767,
+						"Name": "Small Glass Bottle",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400119,
+        "Title": "Recipe: Small Glass Bottles (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Small Glass Bottles (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10768,
+						"Name": "Small Glass Bottle",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400120,
+        "Title": "Recipe: Petridishes",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Petridishes",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10769,
+						"Name": "Petridishes",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400121,
+        "Title": "Recipe: Petridishes (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Petridishes (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10770,
+						"Name": "Petridishes (Alternate)",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400122,
+        "Title": "Recipe: Pints",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Pints",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10771,
+						"Name": "Pints",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400123,
+        "Title": "Recipe: Pints (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Pints (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10772,
+						"Name": "Pints (Alternate)",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400124,
+        "Title": "Recipe: Mason Jars",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Mason Jars",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10774,
+						"Name": "Mason Jars",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400125,
+        "Title": "Recipe: Mason Jars (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Mason Jars (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10775,
+						"Name": "Mason Jars (Alternate)",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400126,
+        "Title": "Recipe: Wineglasses",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Wineglasses",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10832,
+						"Name": "Wineglasses",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400127,
+        "Title": "Recipe: Wineglasses (alternate)",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Grants recipe: Wineglasses (alternate)",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 10833,
+						"Name": "Wineglasses (Alternate)",
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+]

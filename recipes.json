@@ -1,0 +1,2395 @@
+[
+	{
+		"ID": 400101,
+		"Name": "DISABLED Recipe: Steel Mechanical Watches",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "IC Magazine",
+					"itemnamespace": null,
+					"ID": 16670
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Steel mechanical watches",
+					"itemnamespace": null,
+					"ID": 400101
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Machining",
+		"MinimumSkill": 7,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400102,
+		"Name": "DISABLED Recipe: Brass Mechanical Watches",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "IC Magazine",
+					"itemnamespace": null,
+					"ID": 16670
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Brass mechanical watches",
+					"itemnamespace": null,
+					"ID": 400102
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Machining",
+		"MinimumSkill": 8,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400103,
+		"Name": "DISABLED Recipe: Silver Mechanical Watches",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "IC Magazine",
+					"itemnamespace": null,
+					"ID": 16670
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Silver mechanical watches",
+					"itemnamespace": null,
+					"ID": 400103
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Machining",
+		"MinimumSkill": 9,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400104,
+		"Name": "DISABLED Recipe: Gold Mechanical Watches",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "IC Magazine",
+					"itemnamespace": null,
+					"ID": 16670
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Gold mechanical watches",
+					"itemnamespace": null,
+					"ID": 400104
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Machining",
+		"MinimumSkill": 10,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400105,
+		"Name": "Recipe: Orange Mushroom Powder",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "LMAO-Tables",
+					"itemnamespace": null,
+					"ID": 16030
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Orange Mushroom Powder",
+					"itemnamespace": null,
+					"ID": 400105
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Chemistry",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400106,
+		"Name": "Recipe: Handwheel",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "IC Magazine",
+					"itemnamespace": null,
+					"ID": 16670
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Handwheel",
+					"itemnamespace": null,
+					"ID": 400106
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Machining",
+		"MinimumSkill": 2,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400107,
+		"Name": "Recipe: Biodiesel Batch",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "LMAO-Tables",
+					"itemnamespace": null,
+					"ID": 16030
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Biodiesel Batch",
+					"itemnamespace": null,
+					"ID": 400107
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Chemistry",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400108,
+		"Name": "Recipe: 50L Stainless Steel Can",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "IC Magazine",
+					"itemnamespace": null,
+					"ID": 16670
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: 50L Stainless Steel Can",
+					"itemnamespace": null,
+					"ID": 400108
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Machining",
+		"MinimumSkill": 2,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400109,
+		"Name": "Recipe: Genuine Leather",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Lifehack-Pekka",
+					"itemnamespace": null,
+					"ID": 15090
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Genuine Leather",
+					"itemnamespace": null,
+					"ID": 400109
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Sewing",
+		"MinimumSkill": 2,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400110,
+		"Name": "Recipe: Diesel Batch",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "LMAO-Tables",
+					"itemnamespace": null,
+					"ID": 16030
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Diesel Batch",
+					"itemnamespace": null,
+					"ID": 400110
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Chemistry",
+		"MinimumSkill": 2,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400111,
+		"Name": "Recipe: Glass Bottle",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Glass Bottle",
+					"itemnamespace": null,
+					"ID": 400111
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 1,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400112,
+		"Name": "Recipe: Wine Bottles",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Wine Bottles",
+					"itemnamespace": null,
+					"ID": 400112
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 2,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400113,
+		"Name": "Recipe: Glass Flasks",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Glass Flasks",
+					"itemnamespace": null,
+					"ID": 400113
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 4,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400114,
+		"Name": "Recipe: Glass Bottles",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Glass Bottles",
+					"itemnamespace": null,
+					"ID": 400114
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 1,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400115,
+		"Name": "Recipe: Fancy Glass Bottles",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Fancy Glass Bottles",
+					"itemnamespace": null,
+					"ID": 400115
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 6,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400116,
+		"Name": "Recipe: Fancy Glass Bottles (Alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Fancy Glass Bottles (Alternate)",
+					"itemnamespace": null,
+					"ID": 400116
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 6,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400117,
+		"Name": "Recipe: Glass Flasks (Alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Glass Flasks (Alternate)",
+					"itemnamespace": null,
+					"ID": 400117
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 4,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400118,
+		"Name": "Recipe: Small Glass Bottle",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Small Glass Bottle",
+					"itemnamespace": null,
+					"ID": 400118
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400119,
+		"Name": "Recipe: Small Glass Bottle (alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Small Glass Bottle (alternate)",
+					"itemnamespace": null,
+					"ID": 400119
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400120,
+		"Name": "Recipe: Petridishes",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Petridishes",
+					"itemnamespace": null,
+					"ID": 400120
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 5,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400121,
+		"Name": "Recipe: Petridishes (alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Petridishes (alternate)",
+					"itemnamespace": null,
+					"ID": 400121
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 5,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400122,
+		"Name": "Recipe: Pints",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Pints",
+					"itemnamespace": null,
+					"ID": 400122
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 4,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400123,
+		"Name": "Recipe: Pints (alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Pints (alternate)",
+					"itemnamespace": null,
+					"ID": 400123
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 4,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400124,
+		"Name": "Recipe: Mason Jars",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Mason Jars",
+					"itemnamespace": null,
+					"ID": 400124
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400125,
+		"Name": "Recipe: Mason Jars (alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Mason Jars (alternate)",
+					"itemnamespace": null,
+					"ID": 400125
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400126,
+		"Name": "Recipe: Wineglasses",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Wineglasses",
+					"itemnamespace": null,
+					"ID": 400126
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 4,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400127,
+		"Name": "Recipe: Wineglasses (alternate)",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Puuhari Magazine",
+					"itemnamespace": null,
+					"ID": 16660
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Recipe: Wineglasses (alternate)",
+					"itemnamespace": null,
+					"ID": 400127
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.0,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 4,
+		"HardMinimumSkill": true,
+		"SkillFactor": 5.0,
+		"SkillGainFactor": 0.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	
+]

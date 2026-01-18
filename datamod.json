@@ -1,0 +1,16 @@
+{
+	"ModName": "RecipeHacker",
+	"Name": "Recipe Hacker",
+	"Description": "Adds ways to obtain recipe unlocks for recipes that are currently unavailable due to a bug with the recipe system (plus the removed watches).  Put the magazine that would teach the missing recipe in the Drafting Board to get started (ie LMAO-Tables for diesel, Puuhari for glassworking, etc).  Sorry, can't make the recipe items award randomly like the magazines or they would run into the same bug.  So instead you get to/have to pick which recipe you want and pay 2 magazines per",
+	"Author": "Quackers/Norbby",
+	"URL": "https://github.com/norbby42/",
+	"Version": "0.0.1",
+	
+	"ItemFiles": [
+		"items.json",
+	],
+	"RecipeFiles": [
+		"recipes.json",
+	],
+	"AssetBundles": []
+}
